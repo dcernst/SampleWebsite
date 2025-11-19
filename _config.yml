@@ -1,8 +1,8 @@
-name: 'Verde Valley Randonneé'
-description: 'Gravel Cycling Challenge'
-tagline: 'Gravel Cycling Challenge, Northern AZ'
+name: 'My Coolest Website'
+description: 'So much potential'
+tagline: 'yada yada'
 url: 'http://dcernst.github.io'
-baseurl: '/VerdeValleyRandonnee'
+baseurl: '/SampleWebsite'
 paginate: 10
 
 markdown: kramdown
@@ -16,8 +16,6 @@ relative_permalinks: false
 
 # About/contact
 author: Dana C. Ernst
-twitter:
-  username: danaernst
 
 # GitHub
 github:

@@ -1,8 +1,10 @@
 ---
-title: Finishers
+title: Page One
 author: Dana Ernst
 layout: default
 ---
+
+Below is just an example of the kinds of things you can do.  It's mix of HTML and Markdown.
 
 <div class="container-fluid">
 <div class="row align-items-end">

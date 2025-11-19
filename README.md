@@ -1,3 +1,3 @@
-# Verde Valley Randonneé
+# Sample Website
 
-Website for Verde Valley Randonneé Gravel Cycling Challenge.
+A sample website for GitHub pages. Using Jekyll and Twitter Bootstrap.

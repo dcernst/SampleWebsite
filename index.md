@@ -19,4 +19,4 @@ PO Box 5717<br />
 Flagstaff, AZ  86011
 </address>
 
-How about a link to a PDF?  Try [clicking here]({ site.baseurl }}/files/HW10.pdf)
+How about a link to a PDF?  Try [clicking here]({{ site.baseurl }}/files/HW10.pdf)
